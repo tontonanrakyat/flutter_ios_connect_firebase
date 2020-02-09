@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "09651f0fc3da64471e31505f35cacb80"
+build_time: [1581280538, 68479000]
+inputs:
+  "/Users/veritas/Flutter Projects/flutter_ios_connect_firebase/ios/Runner/AppDelegate.swift": [1576078437, 0]
